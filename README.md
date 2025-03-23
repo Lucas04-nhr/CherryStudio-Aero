@@ -17,8 +17,8 @@ Copy the following CSS to `Settings` -> `Display Settings` -> `Custom CSS`
 
 CSS
 ```css
-/* Cherry Studio Areo Theme */
-/* https://github.com/hakadao/CherryStudio-Areo */
+/* Cherry Studio Aero Theme */
+/* https://github.com/hakadao/CherryStudio-Aero */
 
 body[theme-mode=light] {
   --fill-1: rgba(120 120 122 / 0.1);
