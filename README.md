@@ -6,6 +6,11 @@ Give your Cherry Studio a modern, Aero theme
 
 給你的 CherryStudio 一個現代和 Aero 主題
 
+> [!NOTE]
+> Frosted glass effect only works on Cherry Studio for macOS.
+>
+> 毛玻璃效果僅適用於 macOS 上的 Cherry Studio。
+
 ## Preview 效果
 ![image](https://github.com/user-attachments/assets/f1b45077-49e7-4c04-8c5f-b5099d1020aa)
 ![image](https://github.com/user-attachments/assets/a1203c88-9efa-489b-b3e7-a5f41961fd9e)
