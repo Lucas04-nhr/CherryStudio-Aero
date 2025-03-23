@@ -1,7 +1,10 @@
 # CherryStudio-Aero
-Give your Cherry Studio a modern, glassmorphic look.
 
-讓你的 CherryStudio 變得更具現代和毛玻璃化
+> [Aero: **A**uthentic (真實), **E**nergetic (動感), **R**eflective (反射) 及**O**pen (開闊)](https://en.wikipedia.org/wiki/Windows_Aero)
+
+Give your Cherry Studio a modern, Aero theme
+
+給你的 CherryStudio 一個現代和 Aero 主題
 
 ## Preview 效果
 ![image](https://github.com/user-attachments/assets/f1b45077-49e7-4c04-8c5f-b5099d1020aa)
