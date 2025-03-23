@@ -1,13 +1,17 @@
 # CherryStudio-Areo
-讓你的 CherryStudio 變得更毛玻璃化
+讓你的 CherryStudio 變得更具現代和毛玻璃化
 
+## 效果
 ![image](https://github.com/user-attachments/assets/f1b45077-49e7-4c04-8c5f-b5099d1020aa)
 ![image](https://github.com/user-attachments/assets/a1203c88-9efa-489b-b3e7-a5f41961fd9e)
 ![image](https://github.com/user-attachments/assets/86315ef8-9bdc-4525-a4cb-b143f8608414)
 ![image](https://github.com/user-attachments/assets/76d6ffdd-a6be-4694-98b8-69a788208b80)
 
+## 敎程
+複製以下 CSS 到 `Settings` -> `Display Settings` -> `Custom CSS`
+![image](https://github.com/user-attachments/assets/a8e595fb-d093-4972-b439-6dfb9029c9ae)
 
-
+CSS 部分
 ```css
 body[theme-mode=light] {
   --fill-1: rgba(120 120 122 / 0.1);
