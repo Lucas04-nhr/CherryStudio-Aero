@@ -2,9 +2,9 @@
 
 > [Aero: **A**uthentic (真實), **E**nergetic (動感), **R**eflective (反射) 及**O**pen (開闊)](https://en.wikipedia.org/wiki/Windows_Aero)
 
-Give your Cherry Studio a modern, Aero theme
+Give your [Cherry Studio](https://github.com/CherryHQ/cherry-studio) a modern, Aero theme
 
-給你的 CherryStudio 一個現代和 Aero 主題
+給你 [Cherry Studio](https://github.com/CherryHQ/cherry-studio) 一個現代的 Aero 主題
 
 > [!NOTE]
 > Frosted glass effect only works on Cherry Studio for macOS.
