@@ -1,4 +1,4 @@
-# CherryStudio-Areo
+# CherryStudio-Aero
 Give your Cherry Studio a modern, glassmorphic look.
 
 讓你的 CherryStudio 變得更具現代和毛玻璃化
