@@ -4,7 +4,7 @@
 
 > [Aero: **A**uthentic (真實), **E**nergetic (動感), **R**eflective (反射) 及**O**pen (開闊)](https://en.wikipedia.org/wiki/Windows_Aero)
 
-畀一個現代嘅 Aero 主題嘅 [Cherry Studio](https://github.com/CherryHQ/cherry-studio) 你
+畀一個現代嘅 Aero 主題 [Cherry Studio](https://github.com/CherryHQ/cherry-studio) 你
 
 > [!NOTE]
 > 毛玻璃效果淨係喺 macOS 版嘅 Cherry Studio 先用到。
