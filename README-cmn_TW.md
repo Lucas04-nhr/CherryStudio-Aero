@@ -1,25 +1,24 @@
 # CherryStudio-Aero
 
-English | [简体中文](README-cmn_CN.md) | [繁體中文](README-cmn_TW.md) | [廣東話](README-jyut.md)
+[English](README.md) | [简体中文](README-cmn_CN.md) | 繁體中文 | [廣東話](README-jyut.md)
 
-> [Aero: **A**uthentic, **E**nergetic, **R**eflective and **O**pen](https://en.wikipedia.org/wiki/Windows_Aero)
+> [Aero: **A**uthentic (真實), **E**nergetic (動感), **R**eflective (反射) 及**O**pen (開闊)](https://en.wikipedia.org/wiki/Windows_Aero)
 
-Give your [Cherry Studio](https://github.com/CherryHQ/cherry-studio) a modern, Aero theme
+給你 [Cherry Studio](https://github.com/CherryHQ/cherry-studio) 一個現代的 Aero 主題
 
 > [!NOTE]
-> Frosted glass effect only works on Cherry Studio for macOS.
+> 毛玻璃效果僅適用於 macOS 上的 Cherry Studio。
 
-## Screenshots
+## 螢幕截圖
 
 ![image](https://github.com/user-attachments/assets/f1b45077-49e7-4c04-8c5f-b5099d1020aa)
 ![image](https://github.com/user-attachments/assets/a1203c88-9efa-489b-b3e7-a5f41961fd9e)
 ![image](https://github.com/user-attachments/assets/86315ef8-9bdc-4525-a4cb-b143f8608414)
 ![image](https://github.com/user-attachments/assets/76d6ffdd-a6be-4694-98b8-69a788208b80)
 
-## Getting started
+## 快速上手
 
-Copy the following CSS to `Settings` -> `Display Settings` -> `Custom CSS`
-
+複製以下 CSS 到 `設定` -> `顯示設定` -> `自訂 CSS`
 ![image](https://github.com/user-attachments/assets/a8e595fb-d093-4972-b439-6dfb9029c9ae)
 
 CSS
