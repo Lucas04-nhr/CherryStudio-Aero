@@ -119,4 +119,16 @@ body[theme-mode=light] {
   --color-background-soft: var(--color-black-soft);
   --color-background-mute: var(--color-black-mute);
 }
+
+.bubble .message-user,
+[class^=ant] {
+  --color-black: #1b1b1f;
+  --color-black-soft: #262626;
+  --color-black-mute: #363636;
+  --color-white: #ffffff;
+  --color-white-soft: #f2f2f2;
+  --color-white-mute: #eee;
+
+  --chat-text-user: var(--color-black);
+}
 ```
