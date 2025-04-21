@@ -73,7 +73,8 @@ body[theme-mode=light] {
 .home-tabs,
 [class^=ProgramSection],
 [class^=IconSection],
-#messages {
+#messages, 
+[class^=SettingContainer] {
   background-color: transparent;
 }
 
@@ -82,7 +83,9 @@ body[theme-mode=light] {
 }
 
 #inputbar,
-.system-prompt {
+.system-prompt,
+[class^=CardContent],
+[class^=ServerCard] {
   background-color: var(--fill-1);
 }
 
@@ -93,11 +96,21 @@ body[theme-mode=light] {
   background-color: hsla(0 0% 100% / 0.4);
 }
 
+/* On the right side of "Model Provider" in Settings */
+[theme-mode=light] [class^=ProviderListContainer] + [class^=SettingContainer] {
+  background: hsla(0 0% 100% / 0.4) !important;
+}
+
 [theme-mode=dark] #chat,
 [theme-mode=dark] [class^=SettingGroup],
 [theme-mode=dark] [class^=MainContainer],
 [theme-mode=dark] [class^=MainContent] {
   background-color: hsla(0 0% 0% / 0.2);
+}
+
+/* On the right side of "Model Provider" in Settings */
+[theme-mode=dark] [class^=ProviderListContainer] + [class^=SettingContainer] {
+  background: hsla(0 0% 0% / 0.2) !important;
 }
 
 [theme-mode=light] [class^=ant-modal],
