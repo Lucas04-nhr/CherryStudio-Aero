@@ -47,6 +47,18 @@ body[theme-mode=light] {
   --color-black-mute: var(--fill-3);
 }
 
+/* Fix Quick Assistant's transparent background on Windows (text hard to see) */
+body[theme-mode=light][os=windows] {
+  --color-background: hsla(0 0 100% / 1);
+  --color-background-opacity: hsla(0 0 90% / 0.6);
+}
+
+/* Fix Quick Assistant's transparent background on Windows (text hard to see) */
+body[theme-mode=dark][os=windows] {
+  --color-background: hsla(0 0 8% / 1);
+  --color-background-opacity: hsla(0 0 8% / 0.6);
+}
+
 @media (prefers-color-scheme: dark) {
   body[theme-mode=light] {
       background: rgba(255 255 255 / 0.3);
