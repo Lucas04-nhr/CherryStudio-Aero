@@ -20,8 +20,8 @@ body[theme-mode=light] {
   --color-black-soft: var(--fill-2);
   --color-black-mute: var(--fill-3);
 
-  --background-light-aero: rgba(255, 255, 255, 0.55);
-  --background-dark-aero: rgba(36, 36, 36, 0.55);
+  --background-light-aero: rgba(255, 255, 255, 0.3);
+  --background-dark-aero: rgba(36, 36, 36, 0.1);
 
 }
 
